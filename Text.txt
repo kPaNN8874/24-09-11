@@ -1,2 +1,1 @@
-Valtozott
-branch2 letrehozasa
+Elso sor megvaltozott first commit
